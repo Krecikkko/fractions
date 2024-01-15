@@ -1,7 +1,3 @@
-//
-// Created by qubaq on 11.01.2024.
-//
-
 #include "Fraction.h"
 #include <exception>
 
